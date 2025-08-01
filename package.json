@@ -1,0 +1,22 @@
+{
+  "name": "simple-gpsgame",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "happy-dom": "^18.0.1",
+    "typescript": "~5.8.3",
+    "vite": "^7.0.6",
+    "vitest": "^3.2.4"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.53.0",
+    "maplibre-gl": "^5.6.1",
+    "three": "^0.179.0"
+  }
+}
