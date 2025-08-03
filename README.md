@@ -1,24 +1,6 @@
 # Simple – Location‑Based MMO (working title)
 
 > *“Explore the real world, build together, and leave your mark.”*
-
----
-
-## Table of Contents
-
-1. [Game Overview](#game-overview)
-2. [Login & Onboarding](#login--onboarding)
-3. [Core Gameplay Loop](#core-gameplay-loop)
-4. [Key Features](#key-features)
-5. [Player Classes & Abilities](#player-classes--abilities)
-6. [Buildings & City System](#buildings--city-system)
-7. [Inventory & Economy](#inventory--economy)
-8. [Stretch Goals](#stretch-goals)
-9. [Tech Stack](#tech-stack)
-10. [Development Setup](#development-setup)
-11. [Controls](#controls)
-12. [Roadmap (MVP → 1.0)](#roadmap-mvp--10)
-
 ---
 
 ## Game Overview
@@ -133,16 +115,6 @@ Hold the right mouse button and move the mouse to rotate the camera in the edito
 
 Desktop builds use the mouse to look around while holding the right button. Mobile uses GPS-driven movement.
 
-## Roadmap (MVP → 1.0)
-
-| Milestone | Target                                                                       | Status |
-| --------- | ---------------------------------------------------------------------------- | ------ |
-| MVP 0.1   | Google login, GPS movement, Inn placement, basic chat, scalable enemy spawns | ✅     |
-| 0.2       | Crafting & resources, equipment slots, GUT combat tests                      | ☐      |
-| 0.3       | Dungeon party system (UI, role lock) & first dungeon                         | ☐      |
-| 0.4       | Town founding, Bank & Blacksmith buildings                                   | ☐      |
-| Beta 0.9  | Closed beta on Google Play Internal Track                                    | ☐      |
-| 1.0       | Global launch + seasonal event #1 + PvP arenas                               | ☐      |
 
 
 
