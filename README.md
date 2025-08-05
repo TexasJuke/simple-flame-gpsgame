@@ -5,7 +5,7 @@
 
 ## Game Overview
 
-**Simple** is a casual, real‑world **location‑based MMORPG** for **Android**. Your in‑game avatar mirrors your GPS position on an OpenStreetMap‑based live map. Walk around your town, gather resources, fight scalable enemies, co‑operate with nearby players and found persistent cities.
+**Simple** is a casual, real‑world **location‑based MMORPG** for **Android**. Your in‑game avatar mirrors your GPS position on an live map. Walk around your town, gather resources, fight scalable enemies, co‑operate with nearby players and found persistent cities.
 
 ---
 
@@ -104,16 +104,6 @@
 ## Development Setup
 
 Consult [AGENTS.md](AGENTS.md) for repository conventions.
-Hold the right mouse button and move the mouse to rotate the camera in the editor.
-
-## Controls
-| Action  | Desktop Input            | Mobile Input |
-| ------- | ----------------------- | ------------ |
-| Move    | **WASD**                | **GPS**      |
-| Look    | Right mouse drag        | One-finger drag |
-| Sprint  | **Shift**               | N/A |
-
-Desktop builds use the mouse to look around while holding the right button. Mobile uses GPS-driven movement.
 
 
 
